@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaseMVVMCleanArchitecture</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="alert_title_error_unknown">Error</string>
+    <string name="alert_message_error_unknown">It could not be processed normally. Please try again.</string>
+</resources>
